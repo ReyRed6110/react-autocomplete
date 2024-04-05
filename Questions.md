@@ -135,4 +135,5 @@ function MyComponent({ htmlString }) {
     <div dangerouslySetInnerHTML={{ __html: htmlString }} />
   );
 }
+
 It's recommended to sanitize the HTML string on the server-side before sending it to the client, or use a third-party library like dompurify to sanitize it on the client-side.
