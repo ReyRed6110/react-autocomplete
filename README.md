@@ -12,17 +12,17 @@ This is a React TypeScript component that implements an auto-complete functional
 1. Clone the repository: git clone https://github.com/ReyRed6110/react-autocomplete.git
 
 2. Navigate to the project directory: 
-## cd react-autocomplete
+ # cd react-autocomplete
 
 3. Install dependencies: 
 
-## npm install
+ # npm install
 
 ## Usage
 
 1. Start the development server: 
 
-## npm run dev
+# npm run dev
 
 2. Open your browser and navigate to `http://localhost:5173/` to see the auto-complete component in action.
 
